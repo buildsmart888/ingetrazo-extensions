@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/buildsmart888/go-anastruct-2d/87e9
 sha256 = "3083ae4bd759b941965afff339ba2f91e62fbfeb4671b0b5e56350042887e8ae"
 ingetrazo = "0.5.9"
 tags = ["structures", "analysis", "education", "productivity"]
+screenshot = "go_anastruct_2d.jpg"
 
 [name]
 es = "GO 2D Structural — anaStruct"
