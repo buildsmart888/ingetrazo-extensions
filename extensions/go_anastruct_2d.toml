@@ -1,0 +1,21 @@
+id = "go_anastruct_2d"
+version = "0.5.5"
+author = "GO Engineering"
+author_url = "https://github.com/buildsmart888"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/buildsmart888/go-anastruct-2d"
+download = "https://raw.githubusercontent.com/buildsmart888/go-anastruct-2d/87e98f64a1bd1e0e71cd43229ef61b21c0e2ab6b/dist/go_anastruct_2d-v0.5.5-plugin.zip"
+sha256 = "3083ae4bd759b941965afff339ba2f91e62fbfeb4671b0b5e56350042887e8ae"
+ingetrazo = "0.5.9"
+tags = ["structures", "analysis", "education", "productivity"]
+screenshot = "go_anastruct_2d.jpg"
+
+[name]
+es = "GO 2D Structural — anaStruct"
+en = "GO 2D Structural — anaStruct"
+pt = "GO 2D Structural — anaStruct"
+
+[summary]
+es = "Análisis de vigas, pórticos y cerchas 2D con anaStruct: cargas y combinaciones, esfuerzos N/V/M, flechas, reacciones, gráficos interactivos e informes PDF/CSV."
+en = "2D beams, frames and trusses using anaStruct: load cases/combinations, N/V/M forces, deflections, reactions, interactive result diagrams and PDF/CSV reports."
+pt = "Análise 2D de vigas, pórticos e treliças com anaStruct: cargas e combinações, esforços N/V/M, flechas, reações, gráficos e relatórios PDF/CSV."
