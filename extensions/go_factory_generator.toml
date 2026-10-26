@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/buildsmart888/go-factory-generator
 sha256 = "b5646d3f1c63111871e77dad57596ac4d4f1aa4e7fe5caa8045f93dcfef7bc35"
 ingetrazo = "0.5.9"
 tags = ["structures", "bim", "fabrication", "productivity"]
+screenshot = "go_factory_generator.webp"
 
 [name]
 es = "GO Factory Generator"
